@@ -6,3 +6,5 @@ opencv-python-headless
 numpy
 pandas
 Pillow
+Flask
+flask-cors
